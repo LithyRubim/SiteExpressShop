@@ -1,0 +1,95 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #d3d3d3;    
+}
+.row{
+    margin-right: 0px!important;
+}
+.container{
+    background-color: #ffffff;
+    width: 100%;
+    height: 550px;
+    padding: 0;
+}
+header{
+    background-color: #ff8c00;
+    width: 100%;
+    height: 125px;
+    margin: 0;
+}
+header h1{
+    vertical-align: text-bottom;
+    height: 100%;
+}
+.navbar-center {
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+}
+section{
+    width: 100%;
+    text-align: center;
+}
+footer{
+    background-color: #000000;
+    width: 100%;
+    padding: 10px 0;
+    color: #ffffff;
+}
+.foto{
+    margin: 15px auto;
+    width: 30%;
+}
+.formulario{
+    margin: 30px auto;
+    width: 50%;
+}
+.nav-link{
+    color: #ffffff!important;
+ }
+.nav-link:hover{
+    color: #ff8c00!important;
+}
+p{
+    text-align: justify;
+    padding-left: 5px;
+}
+.foto_quem{
+    width: 35%;
+    float: inline-start;
+    padding: 15px;
+}
+.foto_quem2{
+    width: 35%;
+    float: inline-end;
+    padding: 15px;
+}
+.div_central{
+    margin: auto;
+    text-align: center;    
+    align-content: center;
+}
+.p{
+    margin: 10px auto;
+    width: max-content;
+    font-weight: bold;    
+}
+.linha{
+    margin: 30px auto;
+    align-content: center;
+    text-align: center;
+}
+.redes_sociais{
+    margin: 20px auto;
+    width: 50%;
+}
+.dark{
+    font-size: 12px;
+    font-weight: bold;    
+}
+.logo{
+    width: 30%;
+    margin:-10px auto;
+}
